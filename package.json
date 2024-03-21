@@ -101,7 +101,7 @@
     "jest-environment-jsdom": "29.7.0",
     "jest-environment-node": "29.7.0",
     "nx": "18.1.1",
-    "postcss": "8.4.35",
+    "postcss": "8.4.38",
     "prettier": "3.2.5",
     "prisma": "5.11.0",
     "sass": "1.72.0",
