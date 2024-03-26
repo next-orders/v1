@@ -58,7 +58,7 @@
     "@babel/preset-react": "7.23.3",
     "@nestjs/schematics": "10.1.1",
     "@nestjs/testing": "10.3.3",
-    "@nx/devkit": "18.1.1",
+    "@nx/devkit": "18.1.3",
     "@nx/eslint": "18.1.1",
     "@nx/eslint-plugin": "18.1.1",
     "@nx/jest": "18.1.1",
